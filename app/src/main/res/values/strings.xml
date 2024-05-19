@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestMap</string>
+    <string name="hint_search_name">Enter Address</string>
+    <string name="image">image_search</string>
+</resources>
